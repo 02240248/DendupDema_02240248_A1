@@ -1,7 +1,19 @@
 # DendupDema_02240248_A1
 Part A: Python Function
 
-This Python program is a command-line tool with multiple functions. It allows user to:
+Program Flow
+
+The program displays a menu with available functions.
+
+The user selects a function (1-6).
+
+The program prompts for inputs and executes the selected function.
+
+The result is displayed.
+
+The user can continue with another function or exit.
+
+In addition, this Python program is a command-line tool with multiple functions. It allows user to:
 
 1.Check Prime Numbers: Finds if a number is prime.
 
@@ -9,11 +21,11 @@ This Python program is a command-line tool with multiple functions. It allows us
 
 3.Length Converter: Converts between meters and feet.
 
-4.Consonant Counter: Counts consonants in a given text.
+4.Consonant Counter: Counts consonants in a given string.
 
 5.Min/Max Finder: Finds the smallest and largest numbers from user input.
 
-6.Palindrome Checker: Checks if a given text is a palindrome.
+6.Palindrome Checker: Checks if a string is a palindrome.
 
 7.Word Counter: Counts occurrences of specific words ("the," "was," "and") in a file.
 
@@ -22,7 +34,15 @@ Therefore,the main function provides a menu for users to select which function t
 
 Part B: Games
 
-The program includes two games:
+Program Flow
+
+The user selects a game or exits the program.
+
+For the guessing game, the user repeatedly guesses until they find the correct number.
+
+For Rock-Paper-Scissors, the user plays against the computer.
+
+In addition, the program includes two games:
 
 1.Guess the Number – The user guesses a number between 1 and 100, with hints until they guess correctly.
 
